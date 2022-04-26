@@ -9,7 +9,7 @@ my life *so*. Here we are.
 
 ### Optimistic Roadmap
 
-- [] Decide on a nicer build system
+- [ ] Decide on a nicer build system
   - [mdBook](https://rust-lang.github.io/mdBook/for_developers/preprocessors.html) is
     nice, plus, I could write a custom preprocessor and use it as an excuse to learn Rust!
   - ...but I'm already comfortable writing plugins for unified/rehype/remark so a
